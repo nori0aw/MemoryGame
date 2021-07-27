@@ -1,5 +1,5 @@
 # MemoryGame (Simon)
-Is a project using arduino nano based on the retro memory game "Simon".
+A project using arduino nano based on the retro memory game "Simon".
 
 Features:
 - Illuminated buttons
